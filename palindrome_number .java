@@ -7,7 +7,7 @@ public static void main(String[] args) {
 	int n=s.nextInt();
 	int temp=n; 
 	int sum=0;
-		while(n>0)
+		while(n<=1000)
 		{
         int r=n%10;
 	    sum=(sum*10+r);
