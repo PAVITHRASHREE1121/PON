@@ -7,11 +7,11 @@ public static void main(String[] args) {
 	int year=s.nextInt();
 	if(year%4==0)
 	{
-		System.out.println("the given year is leap year");
+		System.out.println(" yes the given year is leap year");
 	}
 	else
 	{
-		System.out.println("the given year is not leap year");
+		System.out.println(" No the given year is not leap year");
 	}
 	s.close();
 }
