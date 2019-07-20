@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class intervals_of_prime_number {
+public class intervals_of_even_number {
 public static void main(String[] args) {
 	Scanner s=new Scanner (System.in);
 	System.out.println("enter the number");
