@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Amstrong_number {
+public class Amstrong 1_number {
 public static void main(String[] args) {
 	Scanner s=new Scanner (System.in);
 	System.out.println("enter the number");
